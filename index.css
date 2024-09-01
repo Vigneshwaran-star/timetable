@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Roboto:wght@500&display=swap');
+
+body{
+  background-color: lightpink;
+}
+.all{
+  display: flex;
+  
+  justify-content: space-between;
+}
+
+.kal{
+  margin-top: -20px;
+  mix-blend-mode: darken;
+}
+.pr{
+  margin-left: -200px;
+  margin-top: 20px;
+}
+.st{
+  margin-left: 50px;
+  margin-top: -35px;
+  color: red;
+}
+
+
+  
+h1{
+  text-align: center;
+  /* margin-top: 200px; */
+  font-family: 'Fascinate', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.cr{
+  color: red;
+  margin-top: -48px;
+  margin-left: -20px;
+}
+ 
+
+
+.box{
+  background-color: white;
+  padding-top: 10px;
+  font-weight: 800;
+  position: relative;
+  top: 40%;
+  font-family: 'Fascinate', cursive;
+  font-family: 'Roboto', sans-serif;  
+}
+
+.cc{
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  padding: 45px;
+  background-color: #ddd;
+}
